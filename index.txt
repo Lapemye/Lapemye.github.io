@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Solape Olojede | Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f7f7f7;
+      color: #333;
+    }
+    header {
+      background-color: #333;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    main {
+      padding: 20px;
+    }
+    .project {
+      background-color: white;
+      margin-bottom: 20px;
+      padding: 15px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    .project a {
+      text-decoration: none;
+      color: #1a0dab;
+    }
+    footer {
+      background-color: #eee;
+      text-align: center;
+      padding: 10px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Solape Olojede</h1>
+    <p>Data/Business Analyst | Portfolio Projects</p>
+  </header>
+  <main>
+    <section class="project">
+      <h2>📊 Customer Sales Analysis</h2>
+      <p>Analyzed customer sales data using Excel and Power BI to uncover trends, product performance, and regional insights.</p>
+      <p><a href="https://github.com/Lapemye/customer-sales-analysis" target="_blank">View Project on GitHub</a></p>
+    </section>
+    <section class="project">
+      <h2>📊 Grocery Sales Dashboard</h2>
+      <p>Built an interactive Excel dashboard analyzing 5 years of grocery sales data using Pivot Tables, Slicers, and Charts. Includes dynamic filtering by year, category, and state.</p>
+      <p>
+        <a href="https://github.com/Lapemye/Lapemye.github.io/blob/main/Grocery_Sales_Cleaned.xlsx" target="_blank">Download Excel Dashboard</a> |
+        <a href="https://github.com/Lapemye/Lapemye.github.io" target="_blank">View Project on GitHub</a>
+      </p>
+    </section>
+  </main>
+  <footer>
+    &copy; 2025 Solape Olojede | <a href="https://www.linkedin.com/in/your-profile" target="_blank">LinkedIn</a>
+  </footer>
+</body>
+</html>
